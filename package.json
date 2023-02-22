@@ -1,0 +1,10 @@
+{
+  "name": "finance_tracker_app",
+  "private": true,
+  "dependencies": {
+    "bootstrap": "4.3.1",
+    "jquery": "^3.6.3",
+    "popper.js": "^1.16.1",
+    "bootstrap-sass": "^3.3.7"
+  }
+}
